@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jangidAmi1720
 - 👀 I’m interested in Full Stack Web Developement .
 - 🌱 I’m currently learning Data Structures .
-- 💞️ I’m an open source enthusiast .
+- 💞️ I’m currently preparing for GATE 23
 - 📫 Reach me @ 1720amiii@gmail.com 
 
 <!---
